@@ -1,3 +1,4 @@
+![Screenshot (271)](https://github.com/nehagoyal123/email-sms-spam-classifier/assets/131161142/7af66160-b4af-499b-8475-c58278648cd6)
 ![Screenshot (271)](https://github.com/nehagoyal123/email-sms-spam-classifier/assets/131161142/7c07886f-57dc-4e4c-8e45-250e68517d39)
                                                  Email/SMS Spam Classifier
 
