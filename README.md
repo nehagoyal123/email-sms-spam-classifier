@@ -1,3 +1,4 @@
+![Screenshot (271)](https://github.com/nehagoyal123/email-sms-spam-classifier/assets/131161142/7c07886f-57dc-4e4c-8e45-250e68517d39)
                                                  Email/SMS Spam Classifier
 
 Welcome to the Email Spam Classifier project! This repository contains a machine learning-based solution for detecting spam emails. The classifier is trained to identify spam and non-spam (ham) emails with high accuracy.
