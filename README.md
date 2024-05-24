@@ -1,4 +1,4 @@
-                                                 **Email/SMS Spam Classifier**
+                                                 Email/SMS Spam Classifier
 
 Welcome to the Email Spam Classifier project! This repository contains a machine learning-based solution for detecting spam emails. The classifier is trained to identify spam and non-spam (ham) emails with high accuracy.
 
@@ -21,7 +21,7 @@ The Email Spam Classifier uses natural language processing (NLP) and machine lea
 
 *1.Clone the repository:*
 
-   _git clone https://github.com/yourusername/email-spam-classifier.git_
+   git clone https://github.com/nehagoyal123/email-sms-spam-classifier.git
 
 cd email-spam-classifier
 
