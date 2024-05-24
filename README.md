@@ -9,18 +9,19 @@ The Email Spam Classifier uses natural language processing (NLP) and machine lea
 **Features**
 
 
-*High Accuracy: Achieves over 95% accuracy on the test set.
+*High Accuracy: Achieves over 95% accuracy on the test set*
 
-*Real-time Prediction: Capable of classifying emails in real-time.
+*Real-time Prediction: Capable of classifying emails in real-time.*
 
-*Extensible: Easy to extend with new features or improve with more data.
+*Extensible: Easy to extend with new features or improve with more data.*
 
-*Comprehensive Documentation: Detailed explanations and comments within the codebase.
+*Comprehensive Documentation: Detailed explanations and comments within the codebase.*
 
 **Installation**
-*1.Clone the repository:
 
-git clone https://github.com/yourusername/email-spam-classifier.git
+*1.Clone the repository:*
+
+   _git clone https://github.com/yourusername/email-spam-classifier.git_
 
 cd email-spam-classifier
 
@@ -35,22 +36,24 @@ The dataset used for training the model is the . It contains a mix of spam and h
 
 The classifier is built using the following components:
 
-*Text Preprocessing: Tokenization, stop-word removal, and TF-IDF vectorization.
+*Text Preprocessing*: Tokenization, stop-word removal, and TF-IDF vectorization.
 
-*Machine Learning Model: A Multinomial Naive Byes classifier trained on the processed text features.
+*Machine Learning Model*: A Multinomial Naive Byes classifier trained on the processed text features.
 
 **Results**
+
 The Email Spam Classifier achieves the following performance metrics on the test dataset:
 
-Accuracy: 95%
+*Accuracy*: 95%
 
-Precision: 100%
+*Precision*: 100%
 
-Recall: 96%
+*Recall*: 96%
 
-F1-Score: 95%
+*F1-Score*: 95%
 
 **Contact**
+
 For any questions or suggestions, please contact the project maintainer:
 
 Name: Neha Goyal
